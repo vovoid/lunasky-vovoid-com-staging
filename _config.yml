@@ -1,9 +1,9 @@
 # Site settings
 exclude: attic
-title: VSXu - audio visualizer, music visualizer, visual programming language (VPL), realtime graphics design platform
+title: Luna Sky - Action Platform Game
 subtitle: by Vovoid Media Technologies AB
 email: youremailaddress@gmail.com
-description: Experience music in <a href="/about/" onClick="analytics.trackDownloadEvent('home about');">new ways</a><br/>Visualize your music with VSXu<br/><br/><br/><a href="/documentation/changelog">v0.6.0</a> out now!<br/>(2017-03)
+description: Play as Luna on her mission to help the stranded humans<br/>Experience action, puzzles and blistering fast platforming in 5 diverse levels<br/><br/>V2.0 out now!<br/>2017-10-10
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://new.vsxu.com" # the base hostname & protocol for your site
 author:
