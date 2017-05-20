@@ -16,7 +16,7 @@ main_menu: yes
                 <h1>About</h1>
             </header>
             <p>
-            This site is not about the current Luna Sky (v1.5) which can be found on Steam.
+            This site is not primarily about the current Luna Sky (v1.5) which can be found on Steam.
             </p>
             
             <p>
