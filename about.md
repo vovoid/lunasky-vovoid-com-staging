@@ -23,7 +23,7 @@ main_menu: yes
             Instead we'd like to focus on our upcoming 2.0 patch release by discussing new features in a development
             blog format.
             </p>
-            <h2>Current features</h2>
+            <h2>Current Features</h2>
             <p>
                 <ul>
                     <li>Momentum driven gameplay</li>
