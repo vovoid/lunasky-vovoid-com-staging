@@ -32,6 +32,7 @@ main_menu: yes
                     <li>Running, jumping, skating and flying</li>
                 </ul>
             </p>
+            The current version can be found on <a href="http://store.steampowered.com/app/361600">Steam</a>
             
             <h2>Upcoming Features</h2>
             <p>
