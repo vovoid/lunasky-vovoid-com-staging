@@ -27,7 +27,7 @@ main_menu: yes
             <p>
                 <ul>
                     <li>Momentum driven gameplay</li>
-                    <li>5 distinct worlds</li>
+                    <li>5 distinct worlds with varying themes, styles of gameplay and music</li>
                     <li>An intriguing story</li>
                     <li>Running, jumping, skating and flying</li>
                 </ul>
