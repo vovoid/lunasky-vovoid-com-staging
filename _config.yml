@@ -3,7 +3,7 @@ exclude: attic
 title: Luna Sky - Action Platform Game
 subtitle: by Vovoid Media Technologies AB
 email: youremailaddress@gmail.com
-description: Version 2.0 in development!<br><br>Look forward to help Luna in her mission.<br/>We invite you to read blog posts about the development<br/><br/>
+description: Version 2.0 in development!<br><br>We invite you to read our dev blog<br/>about the development of Luna Sky 2.0!<br/><br/>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://new.lunasky.vovoid.com" # the base hostname & protocol for your site
 author:
