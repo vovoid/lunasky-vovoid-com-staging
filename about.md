@@ -23,17 +23,28 @@ main_menu: yes
             Instead we'd like to focus on our upcoming 2.0 patch release by discussing new features in a development
             blog format.
             </p>
+            <h2>Current features</h2>
+            <p>
+                <ul>
+                    <li>5 distinct worlds</li>
+                    <li>An intriguing story</li>
+                    <li>Running, jumping, skating and flying</li>
+                </ul>
+            </p>
             
             <h2>Upcoming Features</h2>
             <p>
                 <ul>
-                <li>Even more polished momentum-driven gameplay</li>
-                <li>New Features including gravity, EMP cannon and bouncing & sliding mechanics</li>
-                <li>New improved control scheme</li>
-                <li>Puzzles including electricity, physics and robots</li> 
-                <li>Areas where you can go REALLY FAST</li>
-                <li>Fun and a bit silly robots</li>
-                <li>Several challenging Boss robots</li>
+                    <li>Even more polished momentum-driven gameplay</li>
+                    <li>Dash and Double Dash to quickly gain momentum and ramming of robots</li>
+                    <li>New Features including Gravity, EMP cannon and bouncing & sliding mechanics</li>
+                    <li>New improved control scheme</li>
+                    <li>Fun and a bit silly robots</li>
+                    <li>Several challenging Boss robots</li>
+                    <li>Skill Tree for character customization</li>
+                    <li>New Story Intro</li>
+                    <li>Rebuilt first level</li>
+                    <li>Puzzles including electricity, physics and robots</li> 
                 </ul>
             </p>
 
