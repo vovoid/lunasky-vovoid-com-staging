@@ -19,7 +19,7 @@ We are 2 people:
 
 <h2>Release</h2>
 
-Releasing Luna Sky 1.0 was the result of 4 years of work. However, the finished product was not as good as we would have wanted it to be.
+Releasing Luna Sky 1.0 was the result of 4 years of spare time work. However, the finished product was not as good as we would have wanted it to be.
 As reviews began coming in, some things were pretty apparent and needed to be addressed. We don't believe in abandoning our
 projects for the next when things don't turn out as good as expected, a game can have a life span of 10 years or more.
 
