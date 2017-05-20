@@ -24,9 +24,8 @@ main_menu: yes
             blog format.
             </p>
             
-            <h2>Some features</h2>
+            <h2>Upcoming Features</h2>
             <p>
-                The upcoming Luna Sky Patch (2.0) will feature:
                 <ul>
                 <li>Even more polished momentum-driven gameplay</li>
                 <li>New Features including gravity, EMP cannon and bouncing & sliding mechanics</li>
