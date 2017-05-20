@@ -21,15 +21,17 @@ you will like the upcoming update which you will receive by just owning the game
 
 So, the areas we have decided to focus on are these:
 <ul>
-<li>Load times</li>
-<li>Luna's design - what she looks like</li>
-<li>The intro</li>
-<li>The first level</li>
-<li>Balance between cutscenes and gameplay</li>
-<li>The lack of enemies & bosses</li>
-<li>Some more gameplay elements for a more varied experience</li>
-<li>Finishing our initially planned story elements</li>
-<li>Better support for Windows</li>
+    <li>Luna's design - what she looks like</li>
+    <li>The intro</li>
+    <li>The first level</li>
+    <li>Balance between cutscenes and gameplay</li>
+    <li>Load times</li>
+    <li>The lack of enemies & bosses</li>
+    <li>Some more gameplay elements for a more varied experience</li>
+    <li>Finishing our initially planned story elements</li>
+    <li>Better support for Windows</li>
 </ul>
 
-Each of these will be addressed in this blog. 
+Each of these will be addressed in this blog, and other things.
+ 
+So, we hope you will enjoy some of the posts in this blog! Some will be a bit technical perhaps, but we'll try to keep them fun to read!
