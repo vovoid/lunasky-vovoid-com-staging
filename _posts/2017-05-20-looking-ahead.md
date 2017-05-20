@@ -6,7 +6,7 @@ image: assets/images/posts/luna_in_game_p4.jpg
 ---
 <i>Screenshot from Luna Sky 1.0</i>
 
-Welcome to our Dev blog! This is the first of a bunch of blog posts about what has been going on over the past 1.5 years.
+Welcome to our development blog! This is the first of a bunch of blog posts about what has been going on over the past 1.5 years.
 
 Who are the developers working on Luna Sky? 
 
