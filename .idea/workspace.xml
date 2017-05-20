@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about-artists.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about-developers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about-for_music_lovers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about-live-events.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about-streamers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/development.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation-changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation-faq.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation-video-tutorials.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation-vsxu-live.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products-artiste.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products-demo-player.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products-player.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/products-server.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/support-commercial.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/support-github.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/support-irc.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vsxu.com.iml" afterPath="$PROJECT_DIR$/.idea/vsxu.com.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/tiles.html" afterPath="$PROJECT_DIR$/_includes/tiles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,8 +63,8 @@
       <file leaf-file-name="tiles.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/tiles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -418,7 +395,7 @@
       <workItem from="1492611810365" duration="3406000" />
       <workItem from="1493031710130" duration="2809000" />
       <workItem from="1493117661092" duration="922000" />
-      <workItem from="1495287833622" duration="866000" />
+      <workItem from="1495287833622" duration="925000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -438,7 +415,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44574000" />
+    <option name="totallyTimeSpent" value="44633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
@@ -909,8 +886,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/tiles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
