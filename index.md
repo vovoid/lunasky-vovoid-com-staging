@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-Luna Sky is an action platform game starring Luna.
+Luna Sky is an action platform game by Vovoid Media Technologies starring Luna.

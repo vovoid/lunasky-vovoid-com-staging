@@ -7,6 +7,10 @@ image: assets/images/posts/luna_in_game_p4.jpg
 
 This is the first of a bunch of blog posts about what has been going on over the past 1.5 years.
 
+Who are developing Luna Sky? 
+
+2 people: jaw & Yaphy
+
 Releasing Luna Sky 1.0 was the result of 4 years of work. However, the finished product was not as good as we would have wanted it to be.
 As reviews began coming in, some things were pretty apparent and needed to be addressed. We don't believe in abandoning our
 projects for the next when things don't turn out as good as expected, a game can have a life span of 10 years or more.
