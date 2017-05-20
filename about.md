@@ -26,6 +26,7 @@ main_menu: yes
             <h2>Current features</h2>
             <p>
                 <ul>
+                    <li>Momentum driven gameplay</li>
                     <li>5 distinct worlds</li>
                     <li>An intriguing story</li>
                     <li>Running, jumping, skating and flying</li>
