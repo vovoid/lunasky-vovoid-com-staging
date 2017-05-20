@@ -8,8 +8,9 @@ image: assets/images/posts/luna_in_game_p4.jpg
 
 Welcome to our Dev blog! This is the first of a bunch of blog posts about what has been going on over the past 1.5 years.
 
-Who are developing Luna Sky? 
+Who are the developers working on Luna Sky? 
 
+We are 2 people:
 <ul>
     <li>jaw - engine & game code</li>
     <li>Yaphy - graphics & game design</li>
@@ -29,8 +30,10 @@ This hurt the product really bad, and unfortunately we also had a deadline to me
 When we realized we were not happy, and we cut most marketing. To the users who despite this have enjoyed the game - thank you, we hope
 you will like the upcoming update which you will receive by just owning the game on Steam.
 
+What we have built is definitely worth building on, so we have continued to work on Luna Sky.
+
 <h2>Future focus</h2>
-So, the areas we have decided to focus on are:
+The areas we have decided to focus on in the upcoming patch are a lot:
 <ul>
     <li>Luna's design - what she looks like</li>
     <li>The intro</li>
@@ -43,6 +46,9 @@ So, the areas we have decided to focus on are:
     <li>Better support for Windows</li>
 </ul>
 
-Each of these will be addressed in this blog, and other things.
+Each of these upcoming features will be addressed in this blog.
+
+This all seems like a lot, doesn't it? Why didn't we release incremental patches? 90% of these things change a lot of backend things
+and depend on each other so we feel it's better to release it all at once. 
  
-So, we hope you will enjoy some of the posts in this blog! Some will be a bit technical perhaps, but we'll try to keep them fun to read!
+So, in closing, we hope you will enjoy some of the posts in this blog! Some will be a bit technical perhaps, but we'll try to keep them fun to read!
