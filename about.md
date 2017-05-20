@@ -7,9 +7,11 @@ main_menu: yes
 <div id="main" class="alt">
     <section id="one">
         <div class="inner">
+            <!-- 
             <ul class="actions horizontal">
                 <li><a href="/about" class="button special">About</a></li>
-            </ul>
+            </ul> 
+            -->
             <header class="major">
                 <h1>About</h1>
             </header>
