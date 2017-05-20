@@ -36,7 +36,7 @@ What we have built is definitely worth building on, so we have continued to work
 <h2>Future focus</h2>
 The areas we have decided to focus on in the upcoming patch are a lot:
 <ul>
-    <li>Luna's design - what she looks like</li>
+    <li>Luna's design</li>
     <li>The intro</li>
     <li>The first level</li>
     <li>Balance between cutscenes and gameplay</li>
