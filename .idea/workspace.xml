@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/credits.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/download.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support.md" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -489,7 +488,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51014000" />
+    <option name="totallyTimeSpent" value="51026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
