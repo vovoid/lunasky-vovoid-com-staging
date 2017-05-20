@@ -9,7 +9,10 @@ This is the first of a bunch of blog posts about what has been going on over the
 
 Who are developing Luna Sky? 
 
-2 people: jaw & Yaphy
+<ul>
+    <li>jaw - engine & game code
+    <li>Yaphy - graphics & game design
+</ul>
 
 Releasing Luna Sky 1.0 was the result of 4 years of work. However, the finished product was not as good as we would have wanted it to be.
 As reviews began coming in, some things were pretty apparent and needed to be addressed. We don't believe in abandoning our

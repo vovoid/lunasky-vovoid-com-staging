@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-20-looking-ahead.md" afterPath="$PROJECT_DIR$/_posts/2017-05-20-looking-ahead.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,8 +97,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-05-20-looking-ahead.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="187">
-                <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <first_editor relative-caret-position="680">
+                <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -489,7 +488,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47259000" />
+    <option name="totallyTimeSpent" value="47375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1576" extended-state="6" />
@@ -838,8 +837,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-05-20-looking-ahead.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <first_editor relative-caret-position="680">
+            <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
