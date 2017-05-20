@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Looking ahead
-description: We review the release status and what needs improvement 
+description: What we released and what we need to improve 
 image: assets/images/posts/luna_in_game_p4.jpg
 ---
 <i>Screenshot from Luna Sky 1.0</i>
