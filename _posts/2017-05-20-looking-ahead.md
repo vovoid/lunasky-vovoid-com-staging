@@ -14,6 +14,8 @@ Who are developing Luna Sky?
     <li>Yaphy - graphics & game design</li>
 </ul>
 
+<h2>Release</h2>
+
 Releasing Luna Sky 1.0 was the result of 4 years of work. However, the finished product was not as good as we would have wanted it to be.
 As reviews began coming in, some things were pretty apparent and needed to be addressed. We don't believe in abandoning our
 projects for the next when things don't turn out as good as expected, a game can have a life span of 10 years or more.
@@ -26,7 +28,8 @@ This hurt the product really bad, and unfortunately we also had a deadline to me
 When we realized we were not happy, and we cut most marketing. To the users who despite this have enjoyed the game - thank you, we hope
 you will like the upcoming update which you will receive by just owning the game on Steam.
 
-So, the areas we have decided to focus on are these:
+<h2>Future focus</h2>
+So, the areas we have decided to focus on are:
 <ul>
     <li>Luna's design - what she looks like</li>
     <li>The intro</li>
