@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking ahead
+title: Looking Ahead
 description: What we released and what we need to improve 
 image: assets/images/posts/luna_in_game_p4.jpg
 ---
