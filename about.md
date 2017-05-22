@@ -50,10 +50,9 @@ main_menu: yes
                 </ul>
             </p>
 
-            
-<!--            <ul class="actions horizontal">
-                <li><a href="/download" class="button">Download now!</a></li>
-            </ul> -->
+            <ul class="actions horizontal">
+                <li><a href="https://www.facebook.com/LunaSkyGame/" class="button">Follow us on Facebook!</a></li>
+            </ul>
 
         </div>
     </section>

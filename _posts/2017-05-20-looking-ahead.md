@@ -53,3 +53,8 @@ This all seems like a lot, doesn't it? Why didn't we release incremental patches
 and depend on each other so we feel it's better to release it all at once. 
  
 So, in closing, we hope you will enjoy some of the posts in this blog! Some will be a bit technical perhaps, but we'll try to keep them fun to read!
+
+<h2>Don't miss the next post</h2>
+    <ul class="actions horizontal">
+        <li><a href="https://www.facebook.com/LunaSkyGame/" class="button">Follow us on Facebook!</a></li>
+    </ul>
