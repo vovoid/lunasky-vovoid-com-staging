@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/screenshots/skilltree_gravity.png" afterPath="$PROJECT_DIR$/assets/images/screenshots/skilltree_gravity.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/screenshots/skilltree_gravity_thumb.png" afterPath="$PROJECT_DIR$/assets/images/screenshots/skilltree_gravity_thumb.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-05-20-looking-ahead.md" afterPath="$PROJECT_DIR$/_posts/2017-05-20-looking-ahead.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
-    </list>
+    <list default="true" id="842a2618-9b71-4f3e-9914-c60aa4b76203" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +51,8 @@
       <file leaf-file-name="tiles.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/tiles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="4" column="75" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -441,7 +435,7 @@
       <workItem from="1495391180023" duration="38000" />
       <workItem from="1495454308575" duration="1078000" />
       <workItem from="1495966094266" duration="105000" />
-      <workItem from="1498661287007" duration="958000" />
+      <workItem from="1498661287007" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1490434533083</created>
@@ -461,7 +455,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53715000" />
+    <option name="totallyTimeSpent" value="53789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="3218" height="2018" extended-state="6" />
@@ -762,8 +756,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/tiles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="4" column="75" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="75" />
           <folding />
         </state>
       </provider>
