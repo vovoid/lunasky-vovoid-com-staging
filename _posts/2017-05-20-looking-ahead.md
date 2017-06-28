@@ -57,5 +57,5 @@ So, in closing, we hope you will enjoy some of the posts in this blog! Some will
 <h2>Don't miss the next post</h2>
 
 <ul class="actions horizontal">
-    <li><a href="https://www.facebook.com/LunaSkyGame/" class="button">Follow us!</a></li>
+    <li><a href="https://www.facebook.com/VovoidMediaTech/" class="button">Follow us!</a></li>
 </ul>

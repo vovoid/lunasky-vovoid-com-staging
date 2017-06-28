@@ -51,7 +51,7 @@ main_menu: yes
             </p>
 
 <ul class="actions horizontal">
-    <li><a href="https://www.facebook.com/LunaSkyGame/" class="button">Follow us!</a></li>
+    <li><a href="https://www.facebook.com/VovoidMediaTech/" class="button">Follow us!</a></li>
 </ul>
 
         </div>
