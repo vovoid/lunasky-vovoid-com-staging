@@ -1,1 +1,1 @@
-[[http://www.vsxu.com]]
+[[http://www.lunasky.vovoid.com]]

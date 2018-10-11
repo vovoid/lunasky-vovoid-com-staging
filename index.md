@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Luna Sky'
+landing-title: 'Luna Sky RDX'
 description: null
 image: null
 author: null
 ---
 
-Luna Sky is an action platform game developed by Vovoid Media Technologies AB.
+Luna Sky RDX is an action platform game developed by Vovoid Media Technologies AB.
